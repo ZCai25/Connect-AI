@@ -1,4 +1,5 @@
-# Connect-AI
+# Connect AI - UC Berkerley AI Hackathon
+See the project post at: https://devpost.com/software/dating-ai?ref_content=my-projects-tab&ref_feature=my_projects
 
 ## Inspiration
 
